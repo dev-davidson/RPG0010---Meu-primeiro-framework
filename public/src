@@ -1,0 +1,9 @@
+src/
+  - modelo/
+    - Editora.ts
+    - Livro.ts
+  - controle/
+    - ControleEditora.ts
+    - ControleLivros.ts
+  - LivroDados.js (JavaScript)
+  - LivroLista.js (JavaScript)
